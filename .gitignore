@@ -1,0 +1,34 @@
+# Jetbrains
+.idea
+
+# Python and Django
+media
+
+*.pyc
+*.*~
+*ipynb*
+
+# settings
+static
+static_root
+# coverage
+.cache
+.coverage
+.coverage.xml
+
+.DS_Store
+.env
+.venv
+venv
+env
+.sh
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+__pycache__
+
+# apns pem file
+*.pem
+db.sqlite3
+
